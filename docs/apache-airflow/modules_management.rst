@@ -409,3 +409,11 @@ The package can be removed using pip command:
 
 For more details on how to create to create and publish python packages,
 see `Packaging Python Projects <https://packaging.python.org/tutorials/packaging-projects/>`_.
+
+
+--------------------------------
+Add an account name to logs to execute the task
+
+Description:
+You can add an account name (who triggered the task) to the logs to execute the task. If it is triggered by the task itself, write a fixed account name (for example, the name is computer, and then specify that the account name cannot be computer when it is created)
+
